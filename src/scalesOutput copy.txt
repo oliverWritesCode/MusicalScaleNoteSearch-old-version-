@@ -1,0 +1,319 @@
+
+Input notes:  C, D, E, F, G, A, B, 
+ 
+C Major (C, D, E, F, G, A, B) 
+A Minor (A, B, C, D, E, F, G) 
+Input notes:  C, 
+ 
+C Major (C, D, E, F, G, A, B) 
+C# Major (C#, D#, F, F#, G#, A#, C) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+G# Major (G#, A#, C, C#, D#, F, G) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+F Minor (F, G, G#, A#, C, C#, D#) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+A# Minor (A#, C, C#, D#, F, F#, G#) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+C# HarmonicMinor (C#, D#, E, F#, G#, A, C) 
+E HarmonicMinor (E, F#, G, A, B, C, D#) 
+F HarmonicMinor (F, G, G#, A#, C, C#, E) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+A HarmonicMinor (A, B, C, D, E, F, G#) 
+A# HarmonicMinor (A#, C, C#, D#, F, F#, A) 
+C Blues (C, D#, F, F#, G, A#) 
+D Blues (D, F, G, G#, A, C) 
+F Blues (F, G#, A#, B, C, D#) 
+F# Blues (F#, A, B, C, C#, E) 
+G Blues (G, A#, C, C#, D, F) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  C, D#, F, F#, G, A#, 
+ 
+C Blues (C, D#, F, F#, G, A#) 
+Input notes:  C#, D#, E, 
+ 
+E Major (E, F#, G#, A, B, C#, D#) 
+B Major (B, C#, D#, E, F#, G#, A#) 
+C# Minor (C#, D#, E, F#, G#, A, B) 
+G# Minor (G#, A#, B, C#, D#, E, F#) 
+C# HarmonicMinor (C#, D#, E, F#, G#, A, C) 
+G# HarmonicMinor (G#, A#, B, C#, D#, E, G) 
+A# Blues (A#, C#, D#, E, F, G#) 
+Input notes:  C#, D#, F#, 
+ 
+C# Major (C#, D#, F, F#, G#, A#, C) 
+E Major (E, F#, G#, A, B, C#, D#) 
+F# Major (F#, G#, A#, B, C#, D#, F) 
+B Major (B, C#, D#, E, F#, G#, A#) 
+C# Minor (C#, D#, E, F#, G#, A, B) 
+D# Minor (D#, F, F#, G#, A#, B, C#) 
+G# Minor (G#, A#, B, C#, D#, E, F#) 
+A# Minor (A#, C, C#, D#, F, F#, G#) 
+C# HarmonicMinor (C#, D#, E, F#, G#, A, C) 
+A# HarmonicMinor (A#, C, C#, D#, F, F#, A) 
+D# Blues (D#, F#, G#, A, A#, C#) 
+G# Blues (G#, B, C#, D, D#, F#) 
+Input notes:  C, E, G, 
+ 
+C Major (C, D, E, F, G, A, B) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+A Minor (A, B, C, D, E, F, G) 
+E HarmonicMinor (E, F#, G, A, B, C, D#) 
+F HarmonicMinor (F, G, G#, A#, C, C#, E) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  C, C#, 
+ 
+C# Major (C#, D#, F, F#, G#, A#, C) 
+G# Major (G#, A#, C, C#, D#, F, G) 
+F Minor (F, G, G#, A#, C, C#, D#) 
+A# Minor (A#, C, C#, D#, F, F#, G#) 
+C# HarmonicMinor (C#, D#, E, F#, G#, A, C) 
+F HarmonicMinor (F, G, G#, A#, C, C#, E) 
+A# HarmonicMinor (A#, C, C#, D#, F, F#, A) 
+F# Blues (F#, A, B, C, C#, E) 
+G Blues (G, A#, C, C#, D, F) 
+Input notes:  F, F#, 
+ 
+C# Major (C#, D#, F, F#, G#, A#, C) 
+F# Major (F#, G#, A#, B, C#, D#, F) 
+D# Minor (D#, F, F#, G#, A#, B, C#) 
+A# Minor (A#, C, C#, D#, F, F#, G#) 
+D# HarmonicMinor (D#, F, F#, G#, A#, B, D) 
+F# HarmonicMinor (F#, G#, A, B, C#, D, F) 
+A# HarmonicMinor (A#, C, C#, D#, F, F#, A) 
+C Blues (C, D#, F, F#, G, A#) 
+B Blues (B, D, E, F, F#, A) 
+Input notes:  F, F#, G, 
+ 
+C Blues (C, D#, F, F#, G, A#) 
+Input notes:  C#, D, D#, 
+ 
+G# Blues (G#, B, C#, D, D#, F#) 
+Input notes:  F#, G, G#, 
+ 
+C# Blues (C#, E, F#, G, G#, B) 
+Input notes:  G#, A, A#, 
+ 
+D# Blues (D#, F#, G#, A, A#, C#) 
+Input notes:  B, A#, A, 
+ 
+E Blues (E, G, A, A#, B, D) 
+Input notes:  E, F#, G#, A, A#, 
+ 
+Input notes:  E, G, A, A#, B, 
+ 
+E Blues (E, G, A, A#, B, D) 
+Input notes:  G#, A, D#, 
+ 
+E Major (E, F#, G#, A, B, C#, D#) 
+C# Minor (C#, D#, E, F#, G#, A, B) 
+C# HarmonicMinor (C#, D#, E, F#, G#, A, C) 
+D# Blues (D#, F#, G#, A, A#, C#) 
+Input notes:  D#, F, F#, 
+ 
+C# Major (C#, D#, F, F#, G#, A#, C) 
+F# Major (F#, G#, A#, B, C#, D#, F) 
+D# Minor (D#, F, F#, G#, A#, B, C#) 
+A# Minor (A#, C, C#, D#, F, F#, G#) 
+D# HarmonicMinor (D#, F, F#, G#, A#, B, D) 
+A# HarmonicMinor (A#, C, C#, D#, F, F#, A) 
+C Blues (C, D#, F, F#, G, A#) 
+Input notes:  C, F, 
+ 
+C Major (C, D, E, F, G, A, B) 
+C# Major (C#, D#, F, F#, G#, A#, C) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+G# Major (G#, A#, C, C#, D#, F, G) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+F Minor (F, G, G#, A#, C, C#, D#) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+A# Minor (A#, C, C#, D#, F, F#, G#) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+F HarmonicMinor (F, G, G#, A#, C, C#, E) 
+A HarmonicMinor (A, B, C, D, E, F, G#) 
+A# HarmonicMinor (A#, C, C#, D#, F, F#, A) 
+C Blues (C, D#, F, F#, G, A#) 
+D Blues (D, F, G, G#, A, C) 
+F Blues (F, G#, A#, B, C, D#) 
+G Blues (G, A#, C, C#, D, F) 
+Input notes:  C, D, F, 
+ 
+C Major (C, D, E, F, G, A, B) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+A HarmonicMinor (A, B, C, D, E, F, G#) 
+D Blues (D, F, G, G#, A, C) 
+G Blues (G, A#, C, C#, D, F) 
+Input notes:  C, D, E, F, G, A, B, 
+ 
+C Major (C, D, E, F, G, A, B) 
+A Minor (A, B, C, D, E, F, G) 
+Input notes:  C, D, D#, 
+ 
+D# Major (D#, F, G, G#, A#, C, D) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+G Minor (G, A, A#, C, D, D#, F) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  C, D, G, 
+ 
+C Major (C, D, E, F, G, A, B) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+D Blues (D, F, G, G#, A, C) 
+G Blues (G, A#, C, C#, D, F) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  C, D#, F, F#, G, 
+ 
+C Blues (C, D#, F, F#, G, A#) 
+Input notes:  C, 
+ 
+C Major (C, D, E, F, G, A, B) 
+C# Major (C#, D#, F, F#, G#, A#, C) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+G# Major (G#, A#, C, C#, D#, F, G) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+F Minor (F, G, G#, A#, C, C#, D#) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+A# Minor (A#, C, C#, D#, F, F#, G#) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+C# HarmonicMinor (C#, D#, E, F#, G#, A, C) 
+E HarmonicMinor (E, F#, G, A, B, C, D#) 
+F HarmonicMinor (F, G, G#, A#, C, C#, E) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+A HarmonicMinor (A, B, C, D, E, F, G#) 
+A# HarmonicMinor (A#, C, C#, D#, F, F#, A) 
+C Blues (C, D#, F, F#, G, A#) 
+D Blues (D, F, G, G#, A, C) 
+F Blues (F, G#, A#, B, C, D#) 
+F# Blues (F#, A, B, C, C#, E) 
+G Blues (G, A#, C, C#, D, F) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  C, D, E, 
+ 
+C Major (C, D, E, F, G, A, B) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+A Minor (A, B, C, D, E, F, G) 
+A HarmonicMinor (A, B, C, D, E, F, G#) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  C, D, E, F, G, A, B, 
+ 
+C Major (C, D, E, F, G, A, B) 
+A Minor (A, B, C, D, E, F, G) 
+Input notes:  C, D#, F, F#, G, A#, 
+ 
+C Blues (C, D#, F, F#, G, A#) 
+Input notes:  G, 
+ 
+C Major (C, D, E, F, G, A, B) 
+D Major (D, E, F#, G, A, B, C#) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+G# Major (G#, A#, C, C#, D#, F, G) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+F Minor (F, G, G#, A#, C, C#, D#) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+B Minor (B, C#, D, E, F#, G, A) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+D HarmonicMinor (D, E, F, G, A, A#, C#) 
+E HarmonicMinor (E, F#, G, A, B, C, D#) 
+F HarmonicMinor (F, G, G#, A#, C, C#, E) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+G# HarmonicMinor (G#, A#, B, C#, D#, E, G) 
+B HarmonicMinor (B, C#, D, E, F#, G, A#) 
+C Blues (C, D#, F, F#, G, A#) 
+C# Blues (C#, E, F#, G, G#, B) 
+D Blues (D, F, G, G#, A, C) 
+E Blues (E, G, A, A#, B, D) 
+G Blues (G, A#, C, C#, D, F) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  D, D#, 
+ 
+D# Major (D#, F, G, G#, A#, C, D) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+G Minor (G, A, A#, C, D, D#, F) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+D# HarmonicMinor (D#, F, F#, G#, A#, B, D) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+G# Blues (G#, B, C#, D, D#, F#) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  D, D#, E, C#, 
+ 
+Input notes:  C#, D, D#, 
+ 
+G# Blues (G#, B, C#, D, D#, F#) 
+Input notes:  C, D, D#, 
+ 
+D# Major (D#, F, G, G#, A#, C, D) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+G Minor (G, A, A#, C, D, D#, F) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+A Blues (A, C, D, D#, E, G) 
+Input notes:  C, C#, D, E, 
+ 
+Input notes:  C, C#, E, F, F#, D, 
+ 
+Input notes:  C, D, 
+ 
+C Major (C, D, E, F, G, A, B) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+A HarmonicMinor (A, B, C, D, E, F, G#) 
+D Blues (D, F, G, G#, A, C) 
+G Blues (G, A#, C, C#, D, F) 
+A Blues (A, C, D, D#, E, G) 

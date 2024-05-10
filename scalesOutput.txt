@@ -1,0 +1,19 @@
+
+Input notes:  C, D, 
+ 
+C Major (C, D, E, F, G, A, B) 
+D# Major (D#, F, G, G#, A#, C, D) 
+F Major (F, G, A, A#, C, D, E) 
+G Major (G, A, B, C, D, E, F#) 
+A# Major (A#, C, D, D#, F, G, A) 
+C Minor (C, D, D#, F, G, G#, A#) 
+D Minor (D, E, F, G, A, A#, C) 
+E Minor (E, F#, G, A, B, C, D) 
+G Minor (G, A, A#, C, D, D#, F) 
+A Minor (A, B, C, D, E, F, G) 
+C HarmonicMinor (C, D, D#, F, G, G#, B) 
+G HarmonicMinor (G, A, A#, C, D, D#, F#) 
+A HarmonicMinor (A, B, C, D, E, F, G#) 
+D Blues (D, F, G, G#, A, C) 
+G Blues (G, A#, C, C#, D, F) 
+A Blues (A, C, D, D#, E, G) 
